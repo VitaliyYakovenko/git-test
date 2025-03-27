@@ -1,5 +1,5 @@
 
 
-const a = "hello world"
+const a = "hello world";
 console.log(a);
 
